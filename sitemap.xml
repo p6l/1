@@ -1,12 +1,7 @@
 
-<?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
 <loc>https://p6l.netlify.app/blog/this-womans-fish-tank-completely-froze-because-of-the-winter-weather-in-texas.html</loc>
-<lastmod>2021-02-17</lastmod>
-</url>
-<url>
-<loc>https://p6l.netlify.app/blog/texans-on-tiktok-are-sharing-videos-of-the-damage-left-by-the-winter-snowstorm,-and-its-shocking.html</loc>
 <lastmod>2021-02-17</lastmod>
 </url>
 <url>
@@ -45,5 +40,4 @@
 <loc>https://p6l.netlify.app/blog/a-viral-tiktok-is-proving-that-theres-no-such-thing-as-dog-years--heres-how-old-your-dog-really-is.html</loc>
 <lastmod>2021-02-17</lastmod>
 </url>
-
-</sitemapindex>
+</urlset>
