@@ -51,7 +51,7 @@ aside {
   border-radius:50px;
   margin: 10px;
 }
-h1,h2,p,a,ul {
+h1,h2,p,a,ul,footer {
   text-align: center;
   font-family: "Open Sans";
 }
